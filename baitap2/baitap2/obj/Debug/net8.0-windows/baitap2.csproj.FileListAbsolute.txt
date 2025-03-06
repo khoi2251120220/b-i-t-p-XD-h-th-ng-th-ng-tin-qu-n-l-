@@ -1,0 +1,17 @@
+C:\b-i-t-p-XD-h-th-ng-th-ng-tin-qu-n-l-\baitap2\baitap2\bin\Debug\net8.0-windows\baitap2.exe
+C:\b-i-t-p-XD-h-th-ng-th-ng-tin-qu-n-l-\baitap2\baitap2\bin\Debug\net8.0-windows\baitap2.deps.json
+C:\b-i-t-p-XD-h-th-ng-th-ng-tin-qu-n-l-\baitap2\baitap2\bin\Debug\net8.0-windows\baitap2.runtimeconfig.json
+C:\b-i-t-p-XD-h-th-ng-th-ng-tin-qu-n-l-\baitap2\baitap2\bin\Debug\net8.0-windows\baitap2.dll
+C:\b-i-t-p-XD-h-th-ng-th-ng-tin-qu-n-l-\baitap2\baitap2\bin\Debug\net8.0-windows\baitap2.pdb
+C:\b-i-t-p-XD-h-th-ng-th-ng-tin-qu-n-l-\baitap2\baitap2\obj\Debug\net8.0-windows\baitap2.Form1.resources
+C:\b-i-t-p-XD-h-th-ng-th-ng-tin-qu-n-l-\baitap2\baitap2\obj\Debug\net8.0-windows\baitap2.csproj.GenerateResource.cache
+C:\b-i-t-p-XD-h-th-ng-th-ng-tin-qu-n-l-\baitap2\baitap2\obj\Debug\net8.0-windows\baitap2.GeneratedMSBuildEditorConfig.editorconfig
+C:\b-i-t-p-XD-h-th-ng-th-ng-tin-qu-n-l-\baitap2\baitap2\obj\Debug\net8.0-windows\baitap2.AssemblyInfoInputs.cache
+C:\b-i-t-p-XD-h-th-ng-th-ng-tin-qu-n-l-\baitap2\baitap2\obj\Debug\net8.0-windows\baitap2.AssemblyInfo.cs
+C:\b-i-t-p-XD-h-th-ng-th-ng-tin-qu-n-l-\baitap2\baitap2\obj\Debug\net8.0-windows\baitap2.csproj.CoreCompileInputs.cache
+C:\b-i-t-p-XD-h-th-ng-th-ng-tin-qu-n-l-\baitap2\baitap2\obj\Debug\net8.0-windows\baitap2.sourcelink.json
+C:\b-i-t-p-XD-h-th-ng-th-ng-tin-qu-n-l-\baitap2\baitap2\obj\Debug\net8.0-windows\baitap2.dll
+C:\b-i-t-p-XD-h-th-ng-th-ng-tin-qu-n-l-\baitap2\baitap2\obj\Debug\net8.0-windows\refint\baitap2.dll
+C:\b-i-t-p-XD-h-th-ng-th-ng-tin-qu-n-l-\baitap2\baitap2\obj\Debug\net8.0-windows\baitap2.pdb
+C:\b-i-t-p-XD-h-th-ng-th-ng-tin-qu-n-l-\baitap2\baitap2\obj\Debug\net8.0-windows\baitap2.genruntimeconfig.cache
+C:\b-i-t-p-XD-h-th-ng-th-ng-tin-qu-n-l-\baitap2\baitap2\obj\Debug\net8.0-windows\ref\baitap2.dll
